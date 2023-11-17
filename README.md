@@ -1,1 +1,1 @@
-# Compare-Theoretical-and-Experimental-Variance-and-average
+# Comparing-Theoretical-and-Experimental-Variance-and-average
